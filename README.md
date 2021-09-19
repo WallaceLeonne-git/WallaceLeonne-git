@@ -3,6 +3,7 @@
 - 🔭 Hoje estou estagiando na área de T.I. com suporte ao usuário em infraestrutura e sistemas (ERP) 
 - 🌱 Estudando python e para certificação CCNA. Além de ser discente de Sistemas de Informação (5° semestre)
 - 😄 Pronouns: ele/dele
+- Eu amo as mais variaveis vertentes do ⚽
 
 <div>
   <a href="https://github.com/WallaceLeonne-git">
