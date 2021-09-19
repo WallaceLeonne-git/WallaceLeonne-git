@@ -1,6 +1,6 @@
 ### Olá! Eu sou WallaceLeonne-git 👋
 
-- 🔭 Hoje estou esatgiando na área de T.I. com suporte ao usuário em infraestrutura e sistemas (ERP) 
+- 🔭 Hoje estou estagiando na área de T.I. com suporte ao usuário em infraestrutura e sistemas (ERP) 
 - 🌱 Estudando python e para certificação CCNA. Além de ser discente de Sistemas de Informação (5° semestre)
 - 😄 Pronouns: ele/dele
 
